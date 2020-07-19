@@ -1,2 +1,6 @@
 # local conf ignored
 conf
+logs
+# wp core ignored
+app/public/*
+!app/public/wp-content
