@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'e0spTbM3FloMReeMgCdmZWDTCjdH5rB5z1NtSqtNq0b55L0LD2iDUInJe4wy4FEgCwu/fOIRVVrGzk67/f8e1w==');
-define('SECURE_AUTH_KEY',  'Q+0E4AUWVaLT8oY2JoSuIl4Qvqzk0seiKQ+lC83h6apCv59H0euz1ZBOFo0K7cIfJvcOsp9rA821/OIY/y+nEw==');
-define('LOGGED_IN_KEY',    'SduIXtAWIMUCuJRvbnvdBLdpWDmSZekX8nSQt6gGxt8HV5t/e9rVCuNibgXp/V+cvPa0c1OqTR+eobN01vN6Mg==');
-define('NONCE_KEY',        'w2feAduO+NdvkW3oW7JzqgalEXP170LRJ9BaSLpKg0LKbVyF4FJ5YNqQOdmblY494P1NnGn9BSVX53sWvZrdqg==');
-define('AUTH_SALT',        '0Qh48GMV3C23BzntAF/VoL3zLUat6g7UZPnUIZmW3uMlLqCtbYi1JoiB/SKn7kwDSItSR0Q/vuGQAvoUEZa0tg==');
-define('SECURE_AUTH_SALT', 'IiZwO+EOF1KQHXggrdYZFCsDK6Cn92kRzI3fqmCu+gYEi8tkvt1NXIvrsR79KeCMY2aqNO3ke/E7/BUyM32ncg==');
-define('LOGGED_IN_SALT',   'fazwYM8qHWBU97BCfbecTy4OFiYmWYwlnO9j0zAHuJCXxHiOC30Ed19CweCWVMZbkGQVWhaf99ngKG+0fzvUWw==');
-define('NONCE_SALT',       'FYWein3z/qksTLTbg3nQBlvftEw1FraMgNg1tH7IofDh+s+WxWlyCJZ7Q7IUH+iN0HSrp62GNqZBA2ji38KllA==');
+define('AUTH_KEY',         'R1BqH0uTe+BqMA+Mt1OVFb17gz56c1O6knx23PaIeMxlEAdjDFY+EOCOBTq8HyrDn+/DykUxOU7qd+OLmtc/AQ==');
+define('SECURE_AUTH_KEY',  '3kFPeEuNn+O5xBxktdswoTwZHqKNAj6BNU/Eu7F7PJiGZchB/uQ3MoZtk2dFjQsGEvGcLHiD/ptGw5frRkwcgA==');
+define('LOGGED_IN_KEY',    'bpZY24+NkMwXfC748ku5Zbd7g2h6Wzsh0Iw5ApU/UAZjevTNYyd3x5RUeQGkBlP9PczbyVa6nZZEwpGspB4iVg==');
+define('NONCE_KEY',        'iPxtSCt8SUNTRAQdEho4zb5S75ieLDtffWhfylvWeYFslfV0wndfkE1TLeei4G+pFhvizLHyO20llWdw42KjOQ==');
+define('AUTH_SALT',        'zciCuOQniR8mjOA3yXr2WZxnRXeI7gEPKSCPaaZ5JzO+DPfWBhLboqQnFX2L0rEfPywENbmWBQSeuIcdeRavow==');
+define('SECURE_AUTH_SALT', 'kZBDGPg/bZaseO5HxG0N5t083OxD6uMwogwhAfpE6EFM7l2+RGJqyZNA36AbFbiJ/GHxqxaQZOfPpYTonPFxYA==');
+define('LOGGED_IN_SALT',   'Wvshi5d6Y0wR25Mb8Yoxzskk/nHnFqSSAWGJ9uHobcYPYsYh0K48ur7BP9Pn4+2xjtZOjDmqV8PILSG5I7UTZg==');
+define('NONCE_SALT',       'e21DxvL9DEVZEx+eFTxF94taPq/pLwImhUGD9PZgKXd+BBhf2oY6/NgAB4aL/fI0Uj5BKcFGVrqxc6ngt3VqwA==');
 
 /**
  * WordPress Database Table prefix.
@@ -61,7 +61,7 @@ define('NONCE_SALT',       'FYWein3z/qksTLTbg3nQBlvftEw1FraMgNg1tH7IofDh+s+WxWly
  * You can have multiple installations in one database if you give each
  * a unique prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix = 'wp_';
+$table_prefix = 'WuAVqbxd';
 
 
 
